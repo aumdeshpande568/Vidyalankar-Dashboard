@@ -4,7 +4,7 @@ import requests, json
 import time
 
 # enter your api key here
-api_key = 'AIzaSyCPqrDh9jiMVtHn3MJaJ6hswspa7EdEpLY'
+api_key = 'YOUR_API_KEY'
 
 # url variable store url
 url = "https://maps.googleapis.com/maps/api/place/textsearch/json?"
